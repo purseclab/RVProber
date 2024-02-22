@@ -3,8 +3,10 @@
 RVProber is an attack prerequisite analysis framework. Many of the ideas behind RVProber are documented in a paper published at IEEE S&P 2024. Please refer to <a href="https://kimhyungsub.github.io/S&P24_hskim.pdf" target="_blank"> this</a>.
 
 The below demo video shows that RVProber simulates acoustic noise injection attacks for different types of RVs. 
-<iframe width="862" height="345" src="https://youtu.be/Qi3HTCpCK-w">
-</iframe>
+
+<a href="https://youtu.be/Qi3HTCpCK-w" target="_blank">
+ <img src="https://img.youtube.com/vi/Qi3HTCpCK-w/maxresdefault.jpg" alt="Watch the video" width="800" height="360" border="1" />
+</a>
 
 # 2. Preparation
 ## 2-1. Parsing valid ranges of configuration parameters
