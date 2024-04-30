@@ -8,7 +8,7 @@ The below demo video shows that RVProber simulates acoustic noise injection atta
 </a>
 
 # Download a virtual machine image
-If you are not used to ArduPilot and/or PX4 build environment, we would recommand you to download <a href="https://drive.google.com/file/d/1NP8gmCSosLNmsFxGVdRRS4GfSbj_ykYR/view?usp=sharing" target="_blank"> the virtual machine image</a> and run RVProber.
+If you are not used to ArduPilot and/or PX4 build environment, we would recommand you to download <a href="https://drive.google.com/file/d/1FsysIipG2xvCtY9_WPJHTifhjKZu7ev0/view?usp=drive_link" target="_blank"> the virtual machine image</a> and run RVProber.
 
 # RVProber for ArduPilot
 Please visit <a href="https://github.com/purseclab/RVProber/tree/main/RVProber" target="_blank"> this</a>.
